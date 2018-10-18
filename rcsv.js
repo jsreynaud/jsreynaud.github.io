@@ -19,6 +19,10 @@ $(function(){
     function Update() {
         $("#output").empty().text("Loading...");
         var val = $("#csv").val();
+        $("#download").prop('disabled', false);
+        $("#download").on("click", function(){
+                document.location.href = val;
+            });
         Papa.parse(val, {
             download: true,
             header: true,
