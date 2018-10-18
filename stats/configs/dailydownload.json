@@ -1,0 +1,109 @@
+{
+  "rendererOptions": {
+    "localeStrings": {
+      "renderError": "An error occurred rendering the PivotTable results.",
+      "computeError": "An error occurred computing the PivotTable results.",
+      "uiRenderError": "An error occurred rendering the PivotTable UI.",
+      "selectAll": "Select All",
+      "selectNone": "Select None",
+      "tooMany": "(too many to list)",
+      "filterResults": "Filter values",
+      "apply": "Apply",
+      "cancel": "Cancel",
+      "totals": "Totals",
+      "vs": "vs",
+      "by": "by"
+    }
+  },
+  "localeStrings": {
+    "renderError": "An error occurred rendering the PivotTable results.",
+    "computeError": "An error occurred computing the PivotTable results.",
+    "uiRenderError": "An error occurred rendering the PivotTable UI.",
+    "selectAll": "Select All",
+    "selectNone": "Select None",
+    "tooMany": "(too many to list)",
+    "filterResults": "Filter values",
+    "apply": "Apply",
+    "cancel": "Cancel",
+    "totals": "Totals",
+    "vs": "vs",
+    "by": "by"
+  },
+  "derivedAttributes": {},
+  "hiddenAttributes": [
+    ""
+  ],
+  "hiddenFromAggregators": [],
+  "hiddenFromDragDrop": [],
+  "menuLimit": 500,
+  "cols": [
+    "Date"
+  ],
+  "rows": [
+    "Package name"
+  ],
+  "vals": [
+    "Download count"
+  ],
+  "rowOrder": "key_a_to_z",
+  "colOrder": "key_a_to_z",
+  "exclusions": {
+    "Package name": [
+      "kicad-dbg",
+      "kicad-demo",
+      "kicad-doc-ca",
+      "kicad-doc-de",
+      "kicad-doc-en",
+      "kicad-doc-es",
+      "kicad-doc-fr",
+      "kicad-doc-it",
+      "kicad-doc-ja",
+      "kicad-doc-nl",
+      "kicad-doc-pl",
+      "kicad-doc-ru",
+      "kicad-footprints",
+      "kicad-libraries",
+      "kicad-locale-bg",
+      "kicad-locale-ca",
+      "kicad-locale-cs",
+      "kicad-locale-de",
+      "kicad-locale-el",
+      "kicad-locale-es",
+      "kicad-locale-fi",
+      "kicad-locale-fr",
+      "kicad-locale-hu",
+      "kicad-locale-it",
+      "kicad-locale-ja",
+      "kicad-locale-ko",
+      "kicad-locale-lt",
+      "kicad-locale-nl",
+      "kicad-locale-pl",
+      "kicad-locale-pt",
+      "kicad-locale-ru",
+      "kicad-locale-sk",
+      "kicad-locale-sl",
+      "kicad-locale-sv",
+      "kicad-locale-zh",
+      "kicad-packages3d",
+      "kicad-symbols",
+      "kicad-templates"
+    ]
+  },
+  "inclusions": {
+    "Package name": [
+      "kicad"
+    ]
+  },
+  "unusedAttrsVertical": 85,
+  "autoSortUnusedAttrs": false,
+  "onRefresh": null,
+  "showUI": true,
+  "sorters": {},
+  "aggregatorName": "Sum",
+  "inclusionsInfo": {
+    "Package name": [
+      "kicad"
+    ]
+  },
+  "rendererName": "Line Chart"
+}

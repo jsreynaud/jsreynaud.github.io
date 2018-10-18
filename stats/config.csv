@@ -1,0 +1,5 @@
+"Package","Item","Title","csv"
+"KiCad","dailydownload","Daily download graph","configs/dailydownload.json"
+"KiCad","archdistribution","Arch distribution","configs/archdistribution.json"
+"KiCad","ubuntuversiondistribution","Ubuntu version distribution","configs/uvdistribution.json"
+"KiCad","ppadist","PPA usage distribution","configs/ppadist.json"
