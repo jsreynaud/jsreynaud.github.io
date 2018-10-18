@@ -89,7 +89,7 @@
   },
   "inclusions": {
     "Package name": [
-      "kicad"
+        "kicad", "kicad-nightly"
     ]
   },
   "unusedAttrsVertical": 85,
@@ -100,7 +100,7 @@
   "aggregatorName": "Sum",
   "inclusionsInfo": {
     "Package name": [
-      "kicad"
+        "kicad", "kicad-nightly"
     ]
   },
   "rendererName": "Horizontal Stacked Bar Chart"

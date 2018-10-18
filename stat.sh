@@ -6,6 +6,7 @@ MONTHTODOWNLOAD=$(date -d "2 days ago" +"%Y-%m")
 
 if [ -z "$1" ]; then
     TMP=$(mktemp)
+    echo "Extrat data for $DATETODOWNLOAD"
     $PWD/stat.py $DATETODOWNLOAD > $TMP
     mkdir -p $PWD/csv/${MONTHTODOWNLOAD}
     rm -f $PWD/csv/${MONTHTODOWNLOAD}/${DATETODOWNLOAD}.txt $PWD/csv/${MONTHTODOWNLOAD}.txt
