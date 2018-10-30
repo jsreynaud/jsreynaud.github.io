@@ -112,13 +112,6 @@ PPA,Date,Date published,Status,Arch,Ubuntu version,Package name,Package version,
 "kicad-dev-nightly","2018-10-26","2018-10-26 20:04:25.000015+00:00","Superseded","powerpc","xenial","kicad-nightly-symbols","201810261947+dc2f4c3~8~ubuntu16.04.1",2
 "kicad-dev-nightly","2018-10-26","2018-10-26 20:04:25.000015+00:00","Superseded","ppc64el","xenial","kicad-nightly-symbols","201810261947+dc2f4c3~8~ubuntu16.04.1",2
 "kicad-dev-nightly","2018-10-26","2018-10-26 20:04:25.000015+00:00","Superseded","s390x","xenial","kicad-nightly-symbols","201810261947+dc2f4c3~8~ubuntu16.04.1",2
-"ppa-kicad","2018-10-26","2018-10-23 16:06:10.657154+00:00","Superseded","amd64","xenial","kicad-symbols","201810231549+484af22~6~ubuntu16.04.1",1
-"ppa-kicad","2018-10-26","2018-10-23 16:06:10.657154+00:00","Superseded","arm64","xenial","kicad-symbols","201810231549+484af22~6~ubuntu16.04.1",1
-"ppa-kicad","2018-10-26","2018-10-23 16:06:10.657154+00:00","Superseded","armhf","xenial","kicad-symbols","201810231549+484af22~6~ubuntu16.04.1",1
-"ppa-kicad","2018-10-26","2018-10-23 16:06:10.657154+00:00","Superseded","i386","xenial","kicad-symbols","201810231549+484af22~6~ubuntu16.04.1",1
-"ppa-kicad","2018-10-26","2018-10-23 16:06:10.657154+00:00","Superseded","powerpc","xenial","kicad-symbols","201810231549+484af22~6~ubuntu16.04.1",1
-"ppa-kicad","2018-10-26","2018-10-23 16:06:10.657154+00:00","Superseded","ppc64el","xenial","kicad-symbols","201810231549+484af22~6~ubuntu16.04.1",1
-"ppa-kicad","2018-10-26","2018-10-23 16:06:10.657154+00:00","Superseded","s390x","xenial","kicad-symbols","201810231549+484af22~6~ubuntu16.04.1",1
 "ppa-kicad","2018-10-26","2018-10-24 08:03:21.690225+00:00","Superseded","amd64","bionic","kicad-footprints","201810240747+c5c502e~9~ubuntu18.04.1",1
 "ppa-kicad","2018-10-26","2018-10-24 08:03:21.690225+00:00","Superseded","amd64","xenial","kicad-footprints","201810240747+c5c502e~9~ubuntu16.04.1",2
 "ppa-kicad","2018-10-26","2018-10-24 08:03:21.690225+00:00","Superseded","arm64","bionic","kicad-footprints","201810240747+c5c502e~9~ubuntu18.04.1",1
