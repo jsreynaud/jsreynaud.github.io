@@ -1,6 +1,4 @@
 PPA,Date,Date published,Status,Arch,Ubuntu version,Package name,Package version,Download count
-"kicad-dev-nightly","2018-11-04","2018-11-02 15:49:43.627884+00:00","Superseded","amd64","bionic","kicad-nightly","201811021453+be0935b~84~ubuntu18.04.1",2
-"kicad-dev-nightly","2018-11-04","2018-11-02 15:49:43.627884+00:00","Superseded","amd64","bionic","kicad-nightly-dbg","201811021453+be0935b~84~ubuntu18.04.1",1
 "kicad-dev-nightly","2018-11-04","2018-11-03 16:28:24.749686+00:00","Superseded","amd64","xenial","kicad-nightly","201811031449+15fa8f8~84~ubuntu16.04.1",3
 "kicad-dev-nightly","2018-11-04","2018-11-03 18:06:00.948323+00:00","Superseded","amd64","bionic","kicad-nightly","201811031450+15fa8f8~84~ubuntu18.04.1",20
 "kicad-dev-nightly","2018-11-04","2018-11-03 18:06:00.948323+00:00","Superseded","amd64","bionic","kicad-nightly-dbg","201811031450+15fa8f8~84~ubuntu18.04.1",2
@@ -8,15 +6,6 @@ PPA,Date,Date published,Status,Arch,Ubuntu version,Package name,Package version,
 "kicad-dev-nightly","2018-11-04","2018-11-04 16:04:11.553242+00:00","Superseded","amd64","cosmic","kicad-nightly","201811041448+589e1f6~84~ubuntu18.10.1",5
 "kicad-dev-nightly","2018-11-04","2018-11-04 16:13:59.781778+00:00","Superseded","amd64","bionic","kicad-nightly","201811041449+589e1f6~84~ubuntu18.04.1",8
 "kicad-dev-nightly","2018-11-04","2018-11-04 16:13:59.781778+00:00","Superseded","amd64","bionic","kicad-nightly-dbg","201811041449+589e1f6~84~ubuntu18.04.1",3
-"ppa-kicad","2018-11-04","2018-11-02 15:51:51.741562+00:00","Superseded","amd64","bionic","kicad","201811021453+be0935b~66~ubuntu18.04.1",2
-"ppa-kicad","2018-11-04","2018-11-02 16:47:52.037211+00:00","Superseded","amd64","xenial","kicad","201811021453+be0935b~66~ubuntu16.04.1",6
-"ppa-kicad","2018-11-04","2018-11-02 16:47:52.037211+00:00","Superseded","amd64","xenial","kicad-demo","201811021453+be0935b~66~ubuntu16.04.1",1
-"ppa-kicad","2018-11-04","2018-11-02 16:47:52.037211+00:00","Superseded","arm64","xenial","kicad-demo","201811021453+be0935b~66~ubuntu16.04.1",1
-"ppa-kicad","2018-11-04","2018-11-02 16:47:52.037211+00:00","Superseded","armhf","xenial","kicad-demo","201811021453+be0935b~66~ubuntu16.04.1",1
-"ppa-kicad","2018-11-04","2018-11-02 16:47:52.037211+00:00","Superseded","i386","xenial","kicad-demo","201811021453+be0935b~66~ubuntu16.04.1",1
-"ppa-kicad","2018-11-04","2018-11-02 16:47:52.037211+00:00","Superseded","powerpc","xenial","kicad-demo","201811021453+be0935b~66~ubuntu16.04.1",1
-"ppa-kicad","2018-11-04","2018-11-02 16:47:52.037211+00:00","Superseded","ppc64el","xenial","kicad-demo","201811021453+be0935b~66~ubuntu16.04.1",1
-"ppa-kicad","2018-11-04","2018-11-02 16:47:52.037211+00:00","Superseded","s390x","xenial","kicad-demo","201811021453+be0935b~66~ubuntu16.04.1",1
 "ppa-kicad","2018-11-04","2018-11-03 16:16:04.127892+00:00","Superseded","amd64","bionic","kicad","201811031450+15fa8f8~66~ubuntu18.04.1",58
 "ppa-kicad","2018-11-04","2018-11-03 16:16:04.127892+00:00","Superseded","amd64","bionic","kicad-demo","201811031450+15fa8f8~66~ubuntu18.04.1",6
 "ppa-kicad","2018-11-04","2018-11-03 16:16:04.127892+00:00","Superseded","amd64","cosmic","kicad","201811031449+15fa8f8~66~ubuntu18.10.1",5
