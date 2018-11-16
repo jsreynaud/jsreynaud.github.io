@@ -49,13 +49,6 @@ PPA,Date,Date published,Status,Arch,Ubuntu version,Package name,Package version,
 "kicad-dev-nightly","2018-11-12","2018-11-12 09:45:58.262817+00:00","Superseded","i386","bionic","kicad-nightly-demo","201811120746+62e2fe8~84~ubuntu18.04.1",1
 "kicad-dev-nightly","2018-11-12","2018-11-12 09:45:58.262817+00:00","Superseded","ppc64el","bionic","kicad-nightly-demo","201811120746+62e2fe8~84~ubuntu18.04.1",1
 "kicad-dev-nightly","2018-11-12","2018-11-12 09:45:58.262817+00:00","Superseded","s390x","bionic","kicad-nightly-demo","201811120746+62e2fe8~84~ubuntu18.04.1",1
-"ppa-kicad","2018-11-12","2018-11-10 00:03:28.673848+00:00","Superseded","amd64","xenial","kicad-footprints","201811092324+b3ac55a~9~ubuntu16.04.1",2
-"ppa-kicad","2018-11-12","2018-11-10 00:03:28.673848+00:00","Superseded","arm64","xenial","kicad-footprints","201811092324+b3ac55a~9~ubuntu16.04.1",2
-"ppa-kicad","2018-11-12","2018-11-10 00:03:28.673848+00:00","Superseded","armhf","xenial","kicad-footprints","201811092324+b3ac55a~9~ubuntu16.04.1",2
-"ppa-kicad","2018-11-12","2018-11-10 00:03:28.673848+00:00","Superseded","i386","xenial","kicad-footprints","201811092324+b3ac55a~9~ubuntu16.04.1",2
-"ppa-kicad","2018-11-12","2018-11-10 00:03:28.673848+00:00","Superseded","powerpc","xenial","kicad-footprints","201811092324+b3ac55a~9~ubuntu16.04.1",2
-"ppa-kicad","2018-11-12","2018-11-10 00:03:28.673848+00:00","Superseded","ppc64el","xenial","kicad-footprints","201811092324+b3ac55a~9~ubuntu16.04.1",2
-"ppa-kicad","2018-11-12","2018-11-10 00:03:28.673848+00:00","Superseded","s390x","xenial","kicad-footprints","201811092324+b3ac55a~9~ubuntu16.04.1",2
 "ppa-kicad","2018-11-12","2018-11-10 01:07:10.793333+00:00","Superseded","i386","xenial","kicad","201811092346+acfa13c~66~ubuntu16.04.1",1
 "ppa-kicad","2018-11-12","2018-11-10 01:42:59.657632+00:00","Superseded","amd64","xenial","kicad","201811092346+acfa13c~66~ubuntu16.04.1",1
 "ppa-kicad","2018-11-12","2018-11-10 09:04:59.985309+00:00","Superseded","amd64","bionic","kicad-symbols","201811100847+16bf4de~6~ubuntu18.04.1",62
