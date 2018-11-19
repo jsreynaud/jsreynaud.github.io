@@ -1,12 +1,4 @@
 PPA,Date,Date published,Status,Arch,Ubuntu version,Package name,Package version,Download count
-"kicad-dev-nightly","2018-11-14","2018-11-11 11:53:19.111830+00:00","Superseded","amd64","bionic","kicad-nightly-footprints","201811111147+98603e1~11~ubuntu18.04.1",2
-"kicad-dev-nightly","2018-11-14","2018-11-11 11:53:19.111830+00:00","Superseded","arm64","bionic","kicad-nightly-footprints","201811111147+98603e1~11~ubuntu18.04.1",2
-"kicad-dev-nightly","2018-11-14","2018-11-11 11:53:19.111830+00:00","Superseded","armhf","bionic","kicad-nightly-footprints","201811111147+98603e1~11~ubuntu18.04.1",2
-"kicad-dev-nightly","2018-11-14","2018-11-11 11:53:19.111830+00:00","Superseded","i386","bionic","kicad-nightly-footprints","201811111147+98603e1~11~ubuntu18.04.1",2
-"kicad-dev-nightly","2018-11-14","2018-11-11 11:53:19.111830+00:00","Superseded","ppc64el","bionic","kicad-nightly-footprints","201811111147+98603e1~11~ubuntu18.04.1",2
-"kicad-dev-nightly","2018-11-14","2018-11-11 11:53:19.111830+00:00","Superseded","s390x","bionic","kicad-nightly-footprints","201811111147+98603e1~11~ubuntu18.04.1",2
-"kicad-dev-nightly","2018-11-14","2018-11-12 09:45:58.262817+00:00","Superseded","amd64","bionic","kicad-nightly","201811120746+62e2fe8~84~ubuntu18.04.1",2
-"kicad-dev-nightly","2018-11-14","2018-11-12 09:45:58.262817+00:00","Superseded","amd64","bionic","kicad-nightly-dbg","201811120746+62e2fe8~84~ubuntu18.04.1",1
 "kicad-dev-nightly","2018-11-14","2018-11-13 08:49:46.401760+00:00","Superseded","amd64","cosmic","kicad-nightly","201811130741+86273e8~84~ubuntu18.10.1",1
 "kicad-dev-nightly","2018-11-14","2018-11-13 09:00:42.424352+00:00","Superseded","amd64","bionic","kicad-nightly","201811130741+86273e8~84~ubuntu18.04.1",7
 "kicad-dev-nightly","2018-11-14","2018-11-13 09:00:42.424352+00:00","Superseded","amd64","xenial","kicad-nightly","201811130741+86273e8~84~ubuntu16.04.1",4
