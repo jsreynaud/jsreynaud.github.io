@@ -57,8 +57,10 @@ PPA,Date,Date published,Status,Arch,Ubuntu version,Package name,Package version,
 "kicad-dev-nightly","2018-11-24","2018-11-23 17:01:05.292852+00:00","Superseded","arm64","xenial","kicad-nightly-symbols","201811231648+77f803c~8~ubuntu16.04.1",4
 "kicad-dev-nightly","2018-11-24","2018-11-23 17:01:05.292852+00:00","Superseded","armhf","bionic","kicad-nightly-symbols","201811231647+77f803c~8~ubuntu18.04.1",36
 "kicad-dev-nightly","2018-11-24","2018-11-23 17:01:05.292852+00:00","Superseded","armhf","cosmic","kicad-nightly-symbols","201811231647+77f803c~8~ubuntu18.10.1",4
+"kicad-dev-nightly","2018-11-24","2018-11-23 17:01:05.292852+00:00","Superseded","armhf","cosmic","kicad-nightly-symbols","201811231647+77f803c~8~ubuntu18.10.1",4
 "kicad-dev-nightly","2018-11-24","2018-11-23 17:01:05.292852+00:00","Superseded","armhf","xenial","kicad-nightly-symbols","201811231648+77f803c~8~ubuntu16.04.1",4
 "kicad-dev-nightly","2018-11-24","2018-11-23 17:01:05.292852+00:00","Superseded","i386","bionic","kicad-nightly-symbols","201811231647+77f803c~8~ubuntu18.04.1",36
+"kicad-dev-nightly","2018-11-24","2018-11-23 17:01:05.292852+00:00","Superseded","i386","cosmic","kicad-nightly-symbols","201811231647+77f803c~8~ubuntu18.10.1",4
 "kicad-dev-nightly","2018-11-24","2018-11-23 17:01:05.292852+00:00","Superseded","i386","cosmic","kicad-nightly-symbols","201811231647+77f803c~8~ubuntu18.10.1",4
 "kicad-dev-nightly","2018-11-24","2018-11-23 17:01:05.292852+00:00","Superseded","i386","xenial","kicad-nightly-symbols","201811231648+77f803c~8~ubuntu16.04.1",4
 "kicad-dev-nightly","2018-11-24","2018-11-23 17:01:05.292852+00:00","Superseded","powerpc","xenial","kicad-nightly-symbols","201811231648+77f803c~8~ubuntu16.04.1",4
