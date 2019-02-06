@@ -11,7 +11,7 @@ arch = sys.argv[4]
 """
 PPAOWNER = "js-reynaud"
 # PPA = "ppa-kicad"
-PPA = ["kicad-5", "ppa-kicad", "kicad-dev-nightly", "kicad-4"]
+PPA = ["kicad-5", "ppa-kicad", "kicad-dev-nightly", "kicad-4", "kicad-5.1"]
 #version = "xenial"
 #arch = "amd64"
 # "Pending", "Published", "Superseded", "Deleted", "Obsolete"
