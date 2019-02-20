@@ -6,9 +6,7 @@ echo "Start"
 date
 TMP=$(mktemp)
 echo "Extrat data from $(date -d "$BACKDAY days ago" +"%Y-%m-%d") to now"
-if [ -z "$1" ]; then
-    $PWD/stat.py $(date -d "$BACKDAY days ago" +"%Y-%m-%d") > $TMP
-fi
+$PWD/stat.py $(date -d "$BACKDAY days ago" +"%Y-%m-%d") > $TMP
 
 for((hday=${BACKDAY};hday>=0;hday--)); do
     DATETODOWNLOAD=$(date -d "$hday days ago" +"%Y-%m-%d")
