@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -e
 
 PWD=$(dirname $0)
 BACKDAY=6
