@@ -5,6 +5,7 @@
 "Monthly","2018-12","décembre 2018","csv/2018-12.txt"
 "Monthly","2019-01","janvier 2019","csv/2019-01.txt"
 "Monthly","2019-02","février 2019","csv/2019-02.txt"
+"Monthly","2019-03","mars 2019","csv/2019-03.txt"
 "Daily for septembre 2018","2018-09-01","01 septembre 2018","csv/2018-09/2018-09-01.txt"
 "Daily for septembre 2018","2018-09-02","02 septembre 2018","csv/2018-09/2018-09-02.txt"
 "Daily for septembre 2018","2018-09-03","03 septembre 2018","csv/2018-09/2018-09-03.txt"
@@ -186,3 +187,4 @@
 "Daily for février 2019","2019-02-26","26 février 2019","csv/2019-02/2019-02-26.txt"
 "Daily for février 2019","2019-02-27","27 février 2019","csv/2019-02/2019-02-27.txt"
 "Daily for février 2019","2019-02-28","28 février 2019","csv/2019-02/2019-02-28.txt"
+"Daily for mars 2019","2019-03-01","01 mars 2019","csv/2019-03/2019-03-01.txt"
