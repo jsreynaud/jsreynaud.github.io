@@ -103,7 +103,6 @@ PPA,Date,Date published,Status,Arch,Ubuntu version,Package name,Package version,
 "kicad-dev-nightly","2019-03-09","2019-03-09 13:15:40.204091+00:00","Superseded","s390x","bionic","kicad-nightly-symbols","201903091248+2911a00~8~ubuntu18.04.1",22
 "kicad-dev-nightly","2019-03-09","2019-03-09 13:15:40.204091+00:00","Superseded","s390x","cosmic","kicad-nightly-symbols","201903091248+2911a00~8~ubuntu18.10.1",5
 "kicad-dev-nightly","2019-03-09","2019-03-09 13:15:40.204091+00:00","Superseded","s390x","xenial","kicad-nightly-symbols","201903091248+2911a00~8~ubuntu16.04.1",7
-"ppa-kicad","2019-03-09","2019-03-07 12:34:43.999954+00:00","Superseded","amd64","xenial","kicad","201903071032+d2d2101~82~ubuntu16.04.1",1
 "ppa-kicad","2019-03-09","2019-03-08 11:34:45.744646+00:00","Superseded","amd64","bionic","kicad","201903081032+6eb84e4~82~ubuntu18.04.1",31
 "ppa-kicad","2019-03-09","2019-03-08 11:34:45.744646+00:00","Superseded","amd64","bionic","kicad-dbg","201903081032+6eb84e4~82~ubuntu18.04.1",2
 "ppa-kicad","2019-03-09","2019-03-08 11:34:45.744646+00:00","Superseded","amd64","bionic","kicad-demo","201903081032+6eb84e4~82~ubuntu18.04.1",5
