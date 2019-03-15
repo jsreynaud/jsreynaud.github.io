@@ -1,7 +1,4 @@
 PPA,Date,Date published,Status,Arch,Ubuntu version,Package name,Package version,Download count
-"kicad-5.1","2019-03-12","2019-03-08 21:33:48.787452+00:00","Published","amd64","bionic","kicad","5.1.0-stable-201903082041+060a0da~80~ubuntu18.04.1",1
-"kicad-5.1","2019-03-12","2019-03-08 21:33:48.787452+00:00","Published","amd64","trusty","kicad","5.1.0-stable-201903082042+060a0da~80~ubuntu14.04.1",1
-"kicad-5.1","2019-03-12","2019-03-08 21:59:39.238675+00:00","Published","amd64","cosmic","kicad","5.1.0-stable-201903082041+060a0da~80~ubuntu18.10.1",1
 "kicad-5.1","2019-03-12","2019-03-10 20:32:50.600528+00:00","Published","amd64","bionic","kicad-footprints","5.1.0-stable-201903102011+8ff0c39~9~ubuntu18.04.1",1
 "kicad-5.1","2019-03-12","2019-03-10 20:32:50.600528+00:00","Published","amd64","bionic","kicad-libraries","5.1.0-stable-201903102011+7~ubuntu18.04.1",1
 "kicad-5.1","2019-03-12","2019-03-10 20:32:50.600528+00:00","Published","amd64","bionic","kicad-symbols","5.1.0-stable-201903102013+a938c8d~6~ubuntu18.04.1",1
