@@ -565,4 +565,4 @@ PPA,Date,Date published,Status,Arch,Ubuntu version,Package name,Package version,
 "ppa-kicad","2019-04-04","2019-04-04 14:40:13.195165+00:00","Published","ppc64el","trusty","kicad-doc-en","201904041349+1595~27~ubuntu14.04.1",8
 "ppa-kicad","2019-04-04","2019-04-04 14:40:13.195165+00:00","Published","ppc64el","trusty","kicad-doc-es","201904041349+1595~27~ubuntu14.04.1",2
 "ppa-kicad","2019-04-04","2019-04-04 14:40:13.195165+00:00","Published","ppc64el","trusty","kicad-doc-it","201904041349+1595~27~ubuntu14.04.1",1
-"ppa-kicad","2019-04-04","2019-04-04 23:52:35.545913+00:00","Published","amd64","xenial","kicad","201904042302+ee14da3~82~ubuntu16.04.1",2
+"ppa-kicad","2019-04-04","2019-04-04 23:52:35.545913+00:00","Superseded","amd64","xenial","kicad","201904042302+ee14da3~82~ubuntu16.04.1",2
