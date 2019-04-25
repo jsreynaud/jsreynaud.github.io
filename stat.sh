@@ -1,7 +1,7 @@
 #!/bin/bash -e
 
 PWD=$(dirname $0)
-BACKDAY=${1:-6}
+BACKDAY=${1:-2}
 echo "Start"
 date
 TMP=$(mktemp)
