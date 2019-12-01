@@ -14,6 +14,7 @@
 "Monthly","2019-09","septembre 2019","csv/2019-09.txt"
 "Monthly","2019-10","octobre 2019","csv/2019-10.txt"
 "Monthly","2019-11","novembre 2019","csv/2019-11.txt"
+"Monthly","2019-12","décembre 2019","csv/2019-12.txt"
 "Daily for septembre 2018","2018-09-01","01 septembre 2018","csv/2018-09/2018-09-01.txt"
 "Daily for septembre 2018","2018-09-02","02 septembre 2018","csv/2018-09/2018-09-02.txt"
 "Daily for septembre 2018","2018-09-03","03 septembre 2018","csv/2018-09/2018-09-03.txt"
@@ -470,3 +471,4 @@
 "Daily for novembre 2019","2019-11-28","28 novembre 2019","csv/2019-11/2019-11-28.txt"
 "Daily for novembre 2019","2019-11-29","29 novembre 2019","csv/2019-11/2019-11-29.txt"
 "Daily for novembre 2019","2019-11-30","30 novembre 2019","csv/2019-11/2019-11-30.txt"
+"Daily for décembre 2019","2019-12-01","01 décembre 2019","csv/2019-12/2019-12-01.txt"
