@@ -36,7 +36,7 @@ def produce(PPAOWNER, PPA):
             for dt in downloads:
                 # print dt
                 # getDailyDownloadTotals())#getDownloadCount())
-                print '"' + ppa + '","' + dt + '","' + str(individualarchive.date_published) + '","' + str(individualarchive.status) + '","' + individualarchive.distro_arch_series.architecture_tag + '","' + \
+                print '"' + PPAOWNER+"/"+ppa + '","' + dt + '","' + str(individualarchive.date_published) + '","' + str(individualarchive.status) + '","' + individualarchive.distro_arch_series.architecture_tag + '","' + \
                     individualarchive.distro_arch_series.distroseries.name + '","' + individualarchive.binary_package_name + \
                     '","' + individualarchive.binary_package_version + '",' + str(downloads[dt])
 #    print individualarchive.getDailyDownloadTotals()
