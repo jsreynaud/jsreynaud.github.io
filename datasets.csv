@@ -22,6 +22,7 @@
 "Monthly","2020-05","mai 2020","csv/2020-05.txt"
 "Monthly","2020-06","juin 2020","csv/2020-06.txt"
 "Monthly","2020-07","juillet 2020","csv/2020-07.txt"
+"Monthly","2020-08","août 2020","csv/2020-08.txt"
 "Daily for septembre 2018","2018-09-01","01 septembre 2018","csv/2018-09/2018-09-01.txt"
 "Daily for septembre 2018","2018-09-02","02 septembre 2018","csv/2018-09/2018-09-02.txt"
 "Daily for septembre 2018","2018-09-03","03 septembre 2018","csv/2018-09/2018-09-03.txt"
@@ -722,3 +723,4 @@
 "Daily for juillet 2020","2020-07-29","29 juillet 2020","csv/2020-07/2020-07-29.txt"
 "Daily for juillet 2020","2020-07-30","30 juillet 2020","csv/2020-07/2020-07-30.txt"
 "Daily for juillet 2020","2020-07-31","31 juillet 2020","csv/2020-07/2020-07-31.txt"
+"Daily for août 2020","2020-08-01","01 août 2020","csv/2020-08/2020-08-01.txt"
