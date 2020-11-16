@@ -1,11 +1,1 @@
 PPA,Date,Date published,Status,Arch,Ubuntu version,Package name,Package version,Download count
-"js-reynaud/ppa-kicad","2020-11-14","2020-11-13 00:52:07.570933+00:00","Published","arm64","bionic","libocct-foundation-7.3","7.3.0-0ppa4~ubuntu18.04.1",1
-"js-reynaud/ppa-kicad","2020-11-14","2020-11-13 00:52:07.570933+00:00","Published","arm64","bionic","libocct-foundation-dev","7.3.0-0ppa4~ubuntu18.04.1",1
-"js-reynaud/ppa-kicad","2020-11-14","2020-11-13 00:52:07.570933+00:00","Published","arm64","bionic","libocct-modeling-algorithms-7.3","7.3.0-0ppa4~ubuntu18.04.1",1
-"js-reynaud/ppa-kicad","2020-11-14","2020-11-13 00:52:07.570933+00:00","Published","arm64","bionic","libocct-modeling-algorithms-dev","7.3.0-0ppa4~ubuntu18.04.1",1
-"js-reynaud/ppa-kicad","2020-11-14","2020-11-13 00:52:07.570933+00:00","Published","arm64","bionic","libocct-modeling-data-7.3","7.3.0-0ppa4~ubuntu18.04.1",1
-"js-reynaud/ppa-kicad","2020-11-14","2020-11-13 00:52:07.570933+00:00","Published","arm64","bionic","libocct-modeling-data-dev","7.3.0-0ppa4~ubuntu18.04.1",1
-"js-reynaud/ppa-kicad","2020-11-14","2020-11-13 00:52:07.570933+00:00","Published","arm64","bionic","libocct-ocaf-7.3","7.3.0-0ppa4~ubuntu18.04.1",1
-"js-reynaud/ppa-kicad","2020-11-14","2020-11-13 00:52:07.570933+00:00","Published","arm64","bionic","libocct-ocaf-dev","7.3.0-0ppa4~ubuntu18.04.1",1
-"js-reynaud/ppa-kicad","2020-11-14","2020-11-13 00:52:07.570933+00:00","Published","arm64","bionic","libocct-visualization-7.3","7.3.0-0ppa4~ubuntu18.04.1",1
-"js-reynaud/ppa-kicad","2020-11-14","2020-11-13 00:52:07.570933+00:00","Published","arm64","bionic","libocct-visualization-dev","7.3.0-0ppa4~ubuntu18.04.1",1

@@ -1,11 +1,10 @@
 PPA,Date,Date published,Status,Arch,Ubuntu version,Package name,Package version,Download count
-"js-reynaud/ppa-kicad","2020-11-15","2020-11-13 00:52:07.570933+00:00","Published","arm64","bionic","libocct-foundation-7.3","7.3.0-0ppa4~ubuntu18.04.1",1
-"js-reynaud/ppa-kicad","2020-11-15","2020-11-13 00:52:07.570933+00:00","Published","arm64","bionic","libocct-foundation-dev","7.3.0-0ppa4~ubuntu18.04.1",1
-"js-reynaud/ppa-kicad","2020-11-15","2020-11-13 00:52:07.570933+00:00","Published","arm64","bionic","libocct-modeling-algorithms-7.3","7.3.0-0ppa4~ubuntu18.04.1",1
-"js-reynaud/ppa-kicad","2020-11-15","2020-11-13 00:52:07.570933+00:00","Published","arm64","bionic","libocct-modeling-algorithms-dev","7.3.0-0ppa4~ubuntu18.04.1",1
-"js-reynaud/ppa-kicad","2020-11-15","2020-11-13 00:52:07.570933+00:00","Published","arm64","bionic","libocct-modeling-data-7.3","7.3.0-0ppa4~ubuntu18.04.1",1
-"js-reynaud/ppa-kicad","2020-11-15","2020-11-13 00:52:07.570933+00:00","Published","arm64","bionic","libocct-modeling-data-dev","7.3.0-0ppa4~ubuntu18.04.1",1
-"js-reynaud/ppa-kicad","2020-11-15","2020-11-13 00:52:07.570933+00:00","Published","arm64","bionic","libocct-ocaf-7.3","7.3.0-0ppa4~ubuntu18.04.1",1
-"js-reynaud/ppa-kicad","2020-11-15","2020-11-13 00:52:07.570933+00:00","Published","arm64","bionic","libocct-ocaf-dev","7.3.0-0ppa4~ubuntu18.04.1",1
-"js-reynaud/ppa-kicad","2020-11-15","2020-11-13 00:52:07.570933+00:00","Published","arm64","bionic","libocct-visualization-7.3","7.3.0-0ppa4~ubuntu18.04.1",1
-"js-reynaud/ppa-kicad","2020-11-15","2020-11-13 00:52:07.570933+00:00","Published","arm64","bionic","libocct-visualization-dev","7.3.0-0ppa4~ubuntu18.04.1",1
+"js-reynaud/kicad-dev-nightly","2020-11-15","2020-11-15 17:24:24.040303+00:00","Published","amd64","focal","kicad-nightly","202011151517+9aa6e40b7~106~ubuntu20.04.1",5
+"js-reynaud/kicad-dev-nightly","2020-11-15","2020-11-15 17:24:24.040303+00:00","Published","amd64","focal","kicad-nightly-dbg","202011151517+9aa6e40b7~106~ubuntu20.04.1",2
+"js-reynaud/kicad-dev-nightly","2020-11-15","2020-11-15 17:24:24.040303+00:00","Published","amd64","focal","kicad-nightly-demos","202011151517+9aa6e40b7~106~ubuntu20.04.1",7
+"js-reynaud/kicad-dev-nightly","2020-11-15","2020-11-15 17:24:24.040303+00:00","Published","arm64","focal","kicad-nightly-demos","202011151517+9aa6e40b7~106~ubuntu20.04.1",7
+"js-reynaud/kicad-dev-nightly","2020-11-15","2020-11-15 17:24:24.040303+00:00","Published","armhf","focal","kicad-nightly-demos","202011151517+9aa6e40b7~106~ubuntu20.04.1",7
+"js-reynaud/kicad-dev-nightly","2020-11-15","2020-11-15 17:24:24.040303+00:00","Published","i386","focal","kicad-nightly-demos","202011151517+9aa6e40b7~106~ubuntu20.04.1",7
+"js-reynaud/kicad-dev-nightly","2020-11-15","2020-11-15 17:24:24.040303+00:00","Published","ppc64el","focal","kicad-nightly-demos","202011151517+9aa6e40b7~106~ubuntu20.04.1",7
+"js-reynaud/kicad-dev-nightly","2020-11-15","2020-11-15 17:24:24.040303+00:00","Published","riscv64","focal","kicad-nightly-demos","202011151517+9aa6e40b7~106~ubuntu20.04.1",7
+"js-reynaud/kicad-dev-nightly","2020-11-15","2020-11-15 17:24:24.040303+00:00","Published","s390x","focal","kicad-nightly-demos","202011151517+9aa6e40b7~106~ubuntu20.04.1",7
