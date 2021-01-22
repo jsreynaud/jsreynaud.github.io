@@ -1,0 +1,10 @@
+PPA,Date,Date published,Status,Arch,Ubuntu version,Package name,Package version,Download count
+"kicad/kicad-dev-nightly","2021-01-22","2021-01-21 23:06:46.288436+00:00","Published","amd64","groovy","kicad-nightly","202101211541+82ecb0f77b~112~ubuntu20.10.1",24
+"kicad/kicad-dev-nightly","2021-01-22","2021-01-21 23:06:46.288436+00:00","Published","amd64","groovy","kicad-nightly-dbg","202101211541+82ecb0f77b~112~ubuntu20.10.1",1
+"kicad/kicad-dev-nightly","2021-01-22","2021-01-21 23:06:46.288436+00:00","Published","amd64","groovy","kicad-nightly-demos","202101211541+82ecb0f77b~112~ubuntu20.10.1",24
+"kicad/kicad-dev-nightly","2021-01-22","2021-01-21 23:06:46.288436+00:00","Published","arm64","groovy","kicad-nightly-demos","202101211541+82ecb0f77b~112~ubuntu20.10.1",24
+"kicad/kicad-dev-nightly","2021-01-22","2021-01-21 23:06:46.288436+00:00","Published","armhf","groovy","kicad-nightly-demos","202101211541+82ecb0f77b~112~ubuntu20.10.1",24
+"kicad/kicad-dev-nightly","2021-01-22","2021-01-21 23:06:46.288436+00:00","Published","i386","groovy","kicad-nightly-demos","202101211541+82ecb0f77b~112~ubuntu20.10.1",24
+"kicad/kicad-dev-nightly","2021-01-22","2021-01-21 23:06:46.288436+00:00","Published","ppc64el","groovy","kicad-nightly-demos","202101211541+82ecb0f77b~112~ubuntu20.10.1",24
+"kicad/kicad-dev-nightly","2021-01-22","2021-01-21 23:06:46.288436+00:00","Published","riscv64","groovy","kicad-nightly-demos","202101211541+82ecb0f77b~112~ubuntu20.10.1",24
+"kicad/kicad-dev-nightly","2021-01-22","2021-01-21 23:06:46.288436+00:00","Published","s390x","groovy","kicad-nightly-demos","202101211541+82ecb0f77b~112~ubuntu20.10.1",24
