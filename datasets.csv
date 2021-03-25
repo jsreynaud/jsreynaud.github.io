@@ -1,4 +1,6 @@
 "Package","Item","Title","csv"
+"Yearly","2021","janvier 2021","csv/2021.txt"
+"Yearly","2020","janvier 2020","csv/2020.txt"
 "Monthly","2018-09","septembre 2018","csv/2018-09.txt"
 "Monthly","2018-10","octobre 2018","csv/2018-10.txt"
 "Monthly","2018-11","novembre 2018","csv/2018-11.txt"
@@ -966,3 +968,4 @@
 "Daily for mars 2021","2021-03-22","22 mars 2021","csv/2021-03/2021-03-22.txt"
 "Daily for mars 2021","2021-03-23","23 mars 2021","csv/2021-03/2021-03-23.txt"
 "Daily for mars 2021","2021-03-24","24 mars 2021","csv/2021-03/2021-03-24.txt"
+"Daily for mars 2021","2021-03-25","25 mars 2021","csv/2021-03/2021-03-25.txt"
