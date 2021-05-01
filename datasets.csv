@@ -33,6 +33,7 @@
 "Monthly","2021-02","février 2021","csv/2021-02.txt"
 "Monthly","2021-03","mars 2021","csv/2021-03.txt"
 "Monthly","2021-04","avril 2021","csv/2021-04.txt"
+"Monthly","2021-05","mai 2021","csv/2021-05.txt"
 "Daily for septembre 2018","2018-09-01","01 septembre 2018","csv/2018-09/2018-09-01.txt"
 "Daily for septembre 2018","2018-09-02","02 septembre 2018","csv/2018-09/2018-09-02.txt"
 "Daily for septembre 2018","2018-09-03","03 septembre 2018","csv/2018-09/2018-09-03.txt"
@@ -1006,3 +1007,4 @@
 "Daily for avril 2021","2021-04-28","28 avril 2021","csv/2021-04/2021-04-28.txt"
 "Daily for avril 2021","2021-04-29","29 avril 2021","csv/2021-04/2021-04-29.txt"
 "Daily for avril 2021","2021-04-30","30 avril 2021","csv/2021-04/2021-04-30.txt"
+"Daily for mai 2021","2021-05-01","01 mai 2021","csv/2021-05/2021-05-01.txt"
