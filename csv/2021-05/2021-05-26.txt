@@ -1,0 +1,15 @@
+PPA,Date,Date published,Status,Arch,Ubuntu version,Package name,Package version,Download count
+"kicad/kicad-dev-nightly","2021-05-26","2021-05-25 07:33:13.385100+00:00","Published","amd64","focal","kicad-nightly-symbols","202105250717+9bfcd384~9~ubuntu20.04.1",1
+"kicad/kicad-dev-nightly","2021-05-26","2021-05-25 07:33:13.385100+00:00","Published","arm64","focal","kicad-nightly-symbols","202105250717+9bfcd384~9~ubuntu20.04.1",1
+"kicad/kicad-dev-nightly","2021-05-26","2021-05-25 07:33:13.385100+00:00","Published","armhf","focal","kicad-nightly-symbols","202105250717+9bfcd384~9~ubuntu20.04.1",1
+"kicad/kicad-dev-nightly","2021-05-26","2021-05-25 07:33:13.385100+00:00","Published","i386","focal","kicad-nightly-symbols","202105250717+9bfcd384~9~ubuntu20.04.1",1
+"kicad/kicad-dev-nightly","2021-05-26","2021-05-25 07:33:13.385100+00:00","Published","ppc64el","focal","kicad-nightly-symbols","202105250717+9bfcd384~9~ubuntu20.04.1",1
+"kicad/kicad-dev-nightly","2021-05-26","2021-05-25 07:33:13.385100+00:00","Published","riscv64","focal","kicad-nightly-symbols","202105250717+9bfcd384~9~ubuntu20.04.1",1
+"kicad/kicad-dev-nightly","2021-05-26","2021-05-25 07:33:13.385100+00:00","Published","s390x","focal","kicad-nightly-symbols","202105250717+9bfcd384~9~ubuntu20.04.1",1
+"kicad/kicad-dev-nightly","2021-05-26","2021-05-25 18:58:13.952575+00:00","Published","amd64","focal","kicad-nightly-footprints","202105251819+e4a820977~13~ubuntu20.04.1",1
+"kicad/kicad-dev-nightly","2021-05-26","2021-05-25 18:58:13.952575+00:00","Published","arm64","focal","kicad-nightly-footprints","202105251819+e4a820977~13~ubuntu20.04.1",1
+"kicad/kicad-dev-nightly","2021-05-26","2021-05-25 18:58:13.952575+00:00","Published","armhf","focal","kicad-nightly-footprints","202105251819+e4a820977~13~ubuntu20.04.1",1
+"kicad/kicad-dev-nightly","2021-05-26","2021-05-25 18:58:13.952575+00:00","Published","i386","focal","kicad-nightly-footprints","202105251819+e4a820977~13~ubuntu20.04.1",1
+"kicad/kicad-dev-nightly","2021-05-26","2021-05-25 18:58:13.952575+00:00","Published","ppc64el","focal","kicad-nightly-footprints","202105251819+e4a820977~13~ubuntu20.04.1",1
+"kicad/kicad-dev-nightly","2021-05-26","2021-05-25 18:58:13.952575+00:00","Published","riscv64","focal","kicad-nightly-footprints","202105251819+e4a820977~13~ubuntu20.04.1",1
+"kicad/kicad-dev-nightly","2021-05-26","2021-05-25 18:58:13.952575+00:00","Published","s390x","focal","kicad-nightly-footprints","202105251819+e4a820977~13~ubuntu20.04.1",1
