@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
 import sys
 from launchpadlib.launchpad import Launchpad
@@ -36,14 +36,14 @@ def produce(PPAOWNER, PPA):
             for dt in downloads:
                 # print dt
                 # getDailyDownloadTotals())#getDownloadCount())
-                print '"' + PPAOWNER+"/"+ppa + '","' + dt + '","' + str(individualarchive.date_published) + '","' + str(individualarchive.status) + '","' + individualarchive.distro_arch_series.architecture_tag + '","' + \
+                print( '"' + PPAOWNER+"/"+ppa + '","' + dt + '","' + str(individualarchive.date_published) + '","' + str(individualarchive.status) + '","' + individualarchive.distro_arch_series.architecture_tag + '","' + \
                     individualarchive.distro_arch_series.distroseries.name + '","' + individualarchive.binary_package_name + \
-                    '","' + individualarchive.binary_package_version + '",' + str(downloads[dt])
+                    '","' + individualarchive.binary_package_version + '",' + str(downloads[dt]))
 #    print individualarchive.getDailyDownloadTotals()
 
 
 #PPAOWNER = "js-reynaud"
 #PPA = ["kicad-5", "ppa-kicad", "kicad-dev-nightly", "kicad-4", "kicad-5.1"]
-print "PPA,Date,Date published,Status,Arch,Ubuntu version,Package name,Package version,Download count"
+print( "PPA,Date,Date published,Status,Arch,Ubuntu version,Package name,Package version,Download count")
 produce("js-reynaud", ["kicad-5", "ppa-kicad", "kicad-dev-nightly", "kicad-4", "kicad-5.1"])
 produce("kicad", ["kicad-dev-nightly", "kicad-5.1-releases"])
