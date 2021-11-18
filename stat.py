@@ -29,21 +29,20 @@ def produce(PPAOWNER, PPA):
         for individualarchive in archive.getPublishedBinaries(created_since_date=since, ordered=False):
             # Optional filters
             # status=status
-            #, distro_arch_series=desired_dist_and_arch
+            # , distro_arch_series=desired_dist_and_arch
             # print individualarchive
             #    if individualarchive.binary_package_name == 'kicad':
             downloads = individualarchive.getDailyDownloadTotals()
             for dt in downloads:
                 # print dt
                 # getDailyDownloadTotals())#getDownloadCount())
-                print( '"' + PPAOWNER+"/"+ppa + '","' + dt + '","' + str(individualarchive.date_published) + '","' + str(individualarchive.status) + '","' + individualarchive.distro_arch_series.architecture_tag + '","' + \
-                    individualarchive.distro_arch_series.distroseries.name + '","' + individualarchive.binary_package_name + \
-                    '","' + individualarchive.binary_package_version + '",' + str(downloads[dt]))
+                print('"' + PPAOWNER+"/"+ppa + '","' + dt + '","' + str(individualarchive.date_published) + '","' + str(individualarchive.status) + '","' + individualarchive.distro_arch_series.architecture_tag +
+                      '","' + individualarchive.distro_arch_series.distroseries.name + '","' + individualarchive.binary_package_name + '","' + individualarchive.binary_package_version + '",' + str(downloads[dt]))
 #    print individualarchive.getDailyDownloadTotals()
 
 
 #PPAOWNER = "js-reynaud"
 #PPA = ["kicad-5", "ppa-kicad", "kicad-dev-nightly", "kicad-4", "kicad-5.1"]
-print( "PPA,Date,Date published,Status,Arch,Ubuntu version,Package name,Package version,Download count")
+print("PPA,Date,Date published,Status,Arch,Ubuntu version,Package name,Package version,Download count")
 produce("js-reynaud", ["kicad-5", "ppa-kicad", "kicad-dev-nightly", "kicad-4", "kicad-5.1"])
-produce("kicad", ["kicad-dev-nightly", "kicad-5.1-releases"])
+produce("kicad", ["kicad-dev-nightly", "kicad-5.1-releases", "kicad-6.0-releases"])
