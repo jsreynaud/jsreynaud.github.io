@@ -44,5 +44,5 @@ def produce(PPAOWNER, PPA):
 #PPAOWNER = "js-reynaud"
 #PPA = ["kicad-5", "ppa-kicad", "kicad-dev-nightly", "kicad-4", "kicad-5.1"]
 print("PPA,Date,Date published,Status,Arch,Ubuntu version,Package name,Package version,Download count")
-produce("js-reynaud", ["kicad-5", "ppa-kicad", "kicad-dev-nightly", "kicad-4", "kicad-5.1"])
+produce("js-reynaud", ["kicad-5", "ppa-kicad", "kicad-dev-nightly", "kicad-4"])
 produce("kicad", ["kicad-dev-nightly", "kicad-5.1-releases", "kicad-6.0-releases"])
