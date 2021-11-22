@@ -1,16 +1,16 @@
-PPA,Date,Date published,Status,Arch,Ubuntu version,Package name,Package version,Download count
-"js-reynaud/kicad-dev-nightly","2019-11-01","2019-11-01 01:05:21.023750+00:00","Superseded","amd64","disco","kicad-nightly","201910312304+4178cf7~100~ubuntu19.04.1",7
-"js-reynaud/kicad-dev-nightly","2019-11-01","2019-11-01 01:05:21.023750+00:00","Superseded","amd64","disco","kicad-nightly-dbg","201910312304+4178cf7~100~ubuntu19.04.1",1
-"js-reynaud/kicad-dev-nightly","2019-11-01","2019-11-01 01:05:21.023750+00:00","Superseded","amd64","disco","kicad-nightly-demos","201910312304+4178cf7~100~ubuntu19.04.1",7
-"js-reynaud/kicad-dev-nightly","2019-11-01","2019-11-01 01:05:21.023750+00:00","Superseded","arm64","disco","kicad-nightly-demos","201910312304+4178cf7~100~ubuntu19.04.1",7
-"js-reynaud/kicad-dev-nightly","2019-11-01","2019-11-01 01:05:21.023750+00:00","Superseded","armhf","disco","kicad-nightly-demos","201910312304+4178cf7~100~ubuntu19.04.1",7
-"js-reynaud/kicad-dev-nightly","2019-11-01","2019-11-01 01:05:21.023750+00:00","Superseded","i386","disco","kicad-nightly-demos","201910312304+4178cf7~100~ubuntu19.04.1",7
-"js-reynaud/kicad-dev-nightly","2019-11-01","2019-11-01 01:05:21.023750+00:00","Superseded","ppc64el","disco","kicad-nightly-demos","201910312304+4178cf7~100~ubuntu19.04.1",7
-"js-reynaud/kicad-dev-nightly","2019-11-01","2019-11-01 01:05:21.023750+00:00","Superseded","s390x","disco","kicad-nightly-demos","201910312304+4178cf7~100~ubuntu19.04.1",7
-"js-reynaud/ppa-kicad","2019-11-01","2019-11-01 00:22:49.383465+00:00","Superseded","amd64","disco","kicad","201910312304+4178cf7~86~ubuntu19.04.1",11
-"js-reynaud/ppa-kicad","2019-11-01","2019-11-01 00:22:49.383465+00:00","Superseded","amd64","disco","kicad-demos","201910312304+4178cf7~86~ubuntu19.04.1",11
-"js-reynaud/ppa-kicad","2019-11-01","2019-11-01 00:22:49.383465+00:00","Superseded","arm64","disco","kicad-demos","201910312304+4178cf7~86~ubuntu19.04.1",11
-"js-reynaud/ppa-kicad","2019-11-01","2019-11-01 00:22:49.383465+00:00","Superseded","armhf","disco","kicad-demos","201910312304+4178cf7~86~ubuntu19.04.1",11
-"js-reynaud/ppa-kicad","2019-11-01","2019-11-01 00:22:49.383465+00:00","Superseded","i386","disco","kicad-demos","201910312304+4178cf7~86~ubuntu19.04.1",11
-"js-reynaud/ppa-kicad","2019-11-01","2019-11-01 00:22:49.383465+00:00","Superseded","ppc64el","disco","kicad-demos","201910312304+4178cf7~86~ubuntu19.04.1",11
-"js-reynaud/ppa-kicad","2019-11-01","2019-11-01 00:22:49.383465+00:00","Superseded","s390x","disco","kicad-demos","201910312304+4178cf7~86~ubuntu19.04.1",11
+PPA,Date,Date published,Status,Arch,Ubuntu version,Package name,Package version,Download count,Short version
+"js-reynaud/kicad-dev-nightly","2019-11-01","2019-11-01 01:05:21.023750+00:00","Superseded","amd64","disco","kicad-nightly","201910312304+4178cf7~100~ubuntu19.04.1",7,"201910312304"
+"js-reynaud/kicad-dev-nightly","2019-11-01","2019-11-01 01:05:21.023750+00:00","Superseded","amd64","disco","kicad-nightly-dbg","201910312304+4178cf7~100~ubuntu19.04.1",1,"201910312304"
+"js-reynaud/kicad-dev-nightly","2019-11-01","2019-11-01 01:05:21.023750+00:00","Superseded","amd64","disco","kicad-nightly-demos","201910312304+4178cf7~100~ubuntu19.04.1",7,"201910312304"
+"js-reynaud/kicad-dev-nightly","2019-11-01","2019-11-01 01:05:21.023750+00:00","Superseded","arm64","disco","kicad-nightly-demos","201910312304+4178cf7~100~ubuntu19.04.1",7,"201910312304"
+"js-reynaud/kicad-dev-nightly","2019-11-01","2019-11-01 01:05:21.023750+00:00","Superseded","armhf","disco","kicad-nightly-demos","201910312304+4178cf7~100~ubuntu19.04.1",7,"201910312304"
+"js-reynaud/kicad-dev-nightly","2019-11-01","2019-11-01 01:05:21.023750+00:00","Superseded","i386","disco","kicad-nightly-demos","201910312304+4178cf7~100~ubuntu19.04.1",7,"201910312304"
+"js-reynaud/kicad-dev-nightly","2019-11-01","2019-11-01 01:05:21.023750+00:00","Superseded","ppc64el","disco","kicad-nightly-demos","201910312304+4178cf7~100~ubuntu19.04.1",7,"201910312304"
+"js-reynaud/kicad-dev-nightly","2019-11-01","2019-11-01 01:05:21.023750+00:00","Superseded","s390x","disco","kicad-nightly-demos","201910312304+4178cf7~100~ubuntu19.04.1",7,"201910312304"
+"js-reynaud/ppa-kicad","2019-11-01","2019-11-01 00:22:49.383465+00:00","Superseded","amd64","disco","kicad","201910312304+4178cf7~86~ubuntu19.04.1",11,"201910312304"
+"js-reynaud/ppa-kicad","2019-11-01","2019-11-01 00:22:49.383465+00:00","Superseded","amd64","disco","kicad-demos","201910312304+4178cf7~86~ubuntu19.04.1",11,"201910312304"
+"js-reynaud/ppa-kicad","2019-11-01","2019-11-01 00:22:49.383465+00:00","Superseded","arm64","disco","kicad-demos","201910312304+4178cf7~86~ubuntu19.04.1",11,"201910312304"
+"js-reynaud/ppa-kicad","2019-11-01","2019-11-01 00:22:49.383465+00:00","Superseded","armhf","disco","kicad-demos","201910312304+4178cf7~86~ubuntu19.04.1",11,"201910312304"
+"js-reynaud/ppa-kicad","2019-11-01","2019-11-01 00:22:49.383465+00:00","Superseded","i386","disco","kicad-demos","201910312304+4178cf7~86~ubuntu19.04.1",11,"201910312304"
+"js-reynaud/ppa-kicad","2019-11-01","2019-11-01 00:22:49.383465+00:00","Superseded","ppc64el","disco","kicad-demos","201910312304+4178cf7~86~ubuntu19.04.1",11,"201910312304"
+"js-reynaud/ppa-kicad","2019-11-01","2019-11-01 00:22:49.383465+00:00","Superseded","s390x","disco","kicad-demos","201910312304+4178cf7~86~ubuntu19.04.1",11,"201910312304"

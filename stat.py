@@ -36,13 +36,17 @@ def produce(PPAOWNER, PPA):
             for dt in downloads:
                 # print dt
                 # getDailyDownloadTotals())#getDownloadCount())
+                short_version = individualarchive.binary_package_version
+                short_version = short_version.split("+")[0]
+                short_version = short_version.split("-")[0]
+
                 print('"' + PPAOWNER+"/"+ppa + '","' + dt + '","' + str(individualarchive.date_published) + '","' + str(individualarchive.status) + '","' + individualarchive.distro_arch_series.architecture_tag +
-                      '","' + individualarchive.distro_arch_series.distroseries.name + '","' + individualarchive.binary_package_name + '","' + individualarchive.binary_package_version + '",' + str(downloads[dt]))
+                      '","' + individualarchive.distro_arch_series.distroseries.name + '","' + individualarchive.binary_package_name + '","' + individualarchive.binary_package_version + '",' + str(downloads[dt]) + ',"'+short_version+'"')
 #    print individualarchive.getDailyDownloadTotals()
 
 
 #PPAOWNER = "js-reynaud"
 #PPA = ["kicad-5", "ppa-kicad", "kicad-dev-nightly", "kicad-4", "kicad-5.1"]
-print("PPA,Date,Date published,Status,Arch,Ubuntu version,Package name,Package version,Download count")
+print("PPA,Date,Date published,Status,Arch,Ubuntu version,Package name,Package version,Download count,Short version")
 produce("js-reynaud", ["kicad-5", "ppa-kicad", "kicad-dev-nightly", "kicad-4"])
 produce("kicad", ["kicad-dev-nightly", "kicad-5.1-releases", "kicad-6.0-releases"])

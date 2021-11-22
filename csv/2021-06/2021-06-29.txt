@@ -1,2 +1,2 @@
-PPA,Date,Date published,Status,Arch,Ubuntu version,Package name,Package version,Download count
-"js-reynaud/kicad-dev-nightly","2021-06-29","2021-06-29 00:38:05.679222+00:00","Superseded","i386","bionic","kicad-nightly","202106282153+e2a2c3282a~130~ubuntu18.04.1",1
+PPA,Date,Date published,Status,Arch,Ubuntu version,Package name,Package version,Download count,Short version
+"js-reynaud/kicad-dev-nightly","2021-06-29","2021-06-29 00:38:05.679222+00:00","Superseded","i386","bionic","kicad-nightly","202106282153+e2a2c3282a~130~ubuntu18.04.1",1,"202106282153"

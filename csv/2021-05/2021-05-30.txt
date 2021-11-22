@@ -1,8 +1,8 @@
-PPA,Date,Date published,Status,Arch,Ubuntu version,Package name,Package version,Download count
-"js-reynaud/ppa-kicad","2021-05-30","2021-05-30 04:47:45.009391+00:00","Superseded","amd64","bionic","kicad","202105300339+fcb89b99a3~107~ubuntu18.04.1",1
-"js-reynaud/ppa-kicad","2021-05-30","2021-05-30 04:47:45.009391+00:00","Superseded","amd64","bionic","kicad-demos","202105300339+fcb89b99a3~107~ubuntu18.04.1",1
-"js-reynaud/ppa-kicad","2021-05-30","2021-05-30 04:47:45.009391+00:00","Superseded","arm64","bionic","kicad-demos","202105300339+fcb89b99a3~107~ubuntu18.04.1",1
-"js-reynaud/ppa-kicad","2021-05-30","2021-05-30 04:47:45.009391+00:00","Superseded","armhf","bionic","kicad-demos","202105300339+fcb89b99a3~107~ubuntu18.04.1",1
-"js-reynaud/ppa-kicad","2021-05-30","2021-05-30 04:47:45.009391+00:00","Superseded","i386","bionic","kicad-demos","202105300339+fcb89b99a3~107~ubuntu18.04.1",1
-"js-reynaud/ppa-kicad","2021-05-30","2021-05-30 04:47:45.009391+00:00","Superseded","ppc64el","bionic","kicad-demos","202105300339+fcb89b99a3~107~ubuntu18.04.1",1
-"js-reynaud/ppa-kicad","2021-05-30","2021-05-30 04:47:45.009391+00:00","Superseded","s390x","bionic","kicad-demos","202105300339+fcb89b99a3~107~ubuntu18.04.1",1
+PPA,Date,Date published,Status,Arch,Ubuntu version,Package name,Package version,Download count,Short version
+"js-reynaud/ppa-kicad","2021-05-30","2021-05-30 04:47:45.009391+00:00","Superseded","amd64","bionic","kicad","202105300339+fcb89b99a3~107~ubuntu18.04.1",1,"202105300339"
+"js-reynaud/ppa-kicad","2021-05-30","2021-05-30 04:47:45.009391+00:00","Superseded","amd64","bionic","kicad-demos","202105300339+fcb89b99a3~107~ubuntu18.04.1",1,"202105300339"
+"js-reynaud/ppa-kicad","2021-05-30","2021-05-30 04:47:45.009391+00:00","Superseded","arm64","bionic","kicad-demos","202105300339+fcb89b99a3~107~ubuntu18.04.1",1,"202105300339"
+"js-reynaud/ppa-kicad","2021-05-30","2021-05-30 04:47:45.009391+00:00","Superseded","armhf","bionic","kicad-demos","202105300339+fcb89b99a3~107~ubuntu18.04.1",1,"202105300339"
+"js-reynaud/ppa-kicad","2021-05-30","2021-05-30 04:47:45.009391+00:00","Superseded","i386","bionic","kicad-demos","202105300339+fcb89b99a3~107~ubuntu18.04.1",1,"202105300339"
+"js-reynaud/ppa-kicad","2021-05-30","2021-05-30 04:47:45.009391+00:00","Superseded","ppc64el","bionic","kicad-demos","202105300339+fcb89b99a3~107~ubuntu18.04.1",1,"202105300339"
+"js-reynaud/ppa-kicad","2021-05-30","2021-05-30 04:47:45.009391+00:00","Superseded","s390x","bionic","kicad-demos","202105300339+fcb89b99a3~107~ubuntu18.04.1",1,"202105300339"

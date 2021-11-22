@@ -1,18 +1,18 @@
-PPA,Date,Date published,Status,Arch,Ubuntu version,Package name,Package version,Download count
-"kicad/kicad-dev-nightly","2021-01-26","2021-01-26 17:29:20.278166+00:00","Superseded","amd64","hirsute","kicad-nightly","202101261537+5a5f96bd9f~112~ubuntu21.04.1",1
-"kicad/kicad-dev-nightly","2021-01-26","2021-01-26 17:29:20.278166+00:00","Superseded","amd64","hirsute","kicad-nightly-demos","202101261537+5a5f96bd9f~112~ubuntu21.04.1",1
-"kicad/kicad-dev-nightly","2021-01-26","2021-01-26 17:29:20.278166+00:00","Superseded","arm64","hirsute","kicad-nightly-demos","202101261537+5a5f96bd9f~112~ubuntu21.04.1",1
-"kicad/kicad-dev-nightly","2021-01-26","2021-01-26 17:29:20.278166+00:00","Superseded","armhf","hirsute","kicad-nightly-demos","202101261537+5a5f96bd9f~112~ubuntu21.04.1",1
-"kicad/kicad-dev-nightly","2021-01-26","2021-01-26 17:29:20.278166+00:00","Superseded","i386","hirsute","kicad-nightly-demos","202101261537+5a5f96bd9f~112~ubuntu21.04.1",1
-"kicad/kicad-dev-nightly","2021-01-26","2021-01-26 17:29:20.278166+00:00","Superseded","ppc64el","hirsute","kicad-nightly-demos","202101261537+5a5f96bd9f~112~ubuntu21.04.1",1
-"kicad/kicad-dev-nightly","2021-01-26","2021-01-26 17:29:20.278166+00:00","Superseded","riscv64","hirsute","kicad-nightly-demos","202101261537+5a5f96bd9f~112~ubuntu21.04.1",1
-"kicad/kicad-dev-nightly","2021-01-26","2021-01-26 17:29:20.278166+00:00","Superseded","s390x","hirsute","kicad-nightly-demos","202101261537+5a5f96bd9f~112~ubuntu21.04.1",1
-"kicad/kicad-dev-nightly","2021-01-26","2021-01-26 17:54:45.446842+00:00","Superseded","amd64","groovy","kicad-nightly","202101261535+5a5f96bd9f~112~ubuntu20.10.1",17
-"kicad/kicad-dev-nightly","2021-01-26","2021-01-26 17:54:45.446842+00:00","Superseded","amd64","groovy","kicad-nightly-dbg","202101261535+5a5f96bd9f~112~ubuntu20.10.1",3
-"kicad/kicad-dev-nightly","2021-01-26","2021-01-26 17:54:45.446842+00:00","Superseded","amd64","groovy","kicad-nightly-demos","202101261535+5a5f96bd9f~112~ubuntu20.10.1",17
-"kicad/kicad-dev-nightly","2021-01-26","2021-01-26 17:54:45.446842+00:00","Superseded","arm64","groovy","kicad-nightly-demos","202101261535+5a5f96bd9f~112~ubuntu20.10.1",17
-"kicad/kicad-dev-nightly","2021-01-26","2021-01-26 17:54:45.446842+00:00","Superseded","armhf","groovy","kicad-nightly-demos","202101261535+5a5f96bd9f~112~ubuntu20.10.1",17
-"kicad/kicad-dev-nightly","2021-01-26","2021-01-26 17:54:45.446842+00:00","Superseded","i386","groovy","kicad-nightly-demos","202101261535+5a5f96bd9f~112~ubuntu20.10.1",17
-"kicad/kicad-dev-nightly","2021-01-26","2021-01-26 17:54:45.446842+00:00","Superseded","ppc64el","groovy","kicad-nightly-demos","202101261535+5a5f96bd9f~112~ubuntu20.10.1",17
-"kicad/kicad-dev-nightly","2021-01-26","2021-01-26 17:54:45.446842+00:00","Superseded","riscv64","groovy","kicad-nightly-demos","202101261535+5a5f96bd9f~112~ubuntu20.10.1",17
-"kicad/kicad-dev-nightly","2021-01-26","2021-01-26 17:54:45.446842+00:00","Superseded","s390x","groovy","kicad-nightly-demos","202101261535+5a5f96bd9f~112~ubuntu20.10.1",17
+PPA,Date,Date published,Status,Arch,Ubuntu version,Package name,Package version,Download count,Short version
+"kicad/kicad-dev-nightly","2021-01-26","2021-01-26 17:29:20.278166+00:00","Superseded","amd64","hirsute","kicad-nightly","202101261537+5a5f96bd9f~112~ubuntu21.04.1",1,"202101261537"
+"kicad/kicad-dev-nightly","2021-01-26","2021-01-26 17:29:20.278166+00:00","Superseded","amd64","hirsute","kicad-nightly-demos","202101261537+5a5f96bd9f~112~ubuntu21.04.1",1,"202101261537"
+"kicad/kicad-dev-nightly","2021-01-26","2021-01-26 17:29:20.278166+00:00","Superseded","arm64","hirsute","kicad-nightly-demos","202101261537+5a5f96bd9f~112~ubuntu21.04.1",1,"202101261537"
+"kicad/kicad-dev-nightly","2021-01-26","2021-01-26 17:29:20.278166+00:00","Superseded","armhf","hirsute","kicad-nightly-demos","202101261537+5a5f96bd9f~112~ubuntu21.04.1",1,"202101261537"
+"kicad/kicad-dev-nightly","2021-01-26","2021-01-26 17:29:20.278166+00:00","Superseded","i386","hirsute","kicad-nightly-demos","202101261537+5a5f96bd9f~112~ubuntu21.04.1",1,"202101261537"
+"kicad/kicad-dev-nightly","2021-01-26","2021-01-26 17:29:20.278166+00:00","Superseded","ppc64el","hirsute","kicad-nightly-demos","202101261537+5a5f96bd9f~112~ubuntu21.04.1",1,"202101261537"
+"kicad/kicad-dev-nightly","2021-01-26","2021-01-26 17:29:20.278166+00:00","Superseded","riscv64","hirsute","kicad-nightly-demos","202101261537+5a5f96bd9f~112~ubuntu21.04.1",1,"202101261537"
+"kicad/kicad-dev-nightly","2021-01-26","2021-01-26 17:29:20.278166+00:00","Superseded","s390x","hirsute","kicad-nightly-demos","202101261537+5a5f96bd9f~112~ubuntu21.04.1",1,"202101261537"
+"kicad/kicad-dev-nightly","2021-01-26","2021-01-26 17:54:45.446842+00:00","Superseded","amd64","groovy","kicad-nightly","202101261535+5a5f96bd9f~112~ubuntu20.10.1",17,"202101261535"
+"kicad/kicad-dev-nightly","2021-01-26","2021-01-26 17:54:45.446842+00:00","Superseded","amd64","groovy","kicad-nightly-dbg","202101261535+5a5f96bd9f~112~ubuntu20.10.1",3,"202101261535"
+"kicad/kicad-dev-nightly","2021-01-26","2021-01-26 17:54:45.446842+00:00","Superseded","amd64","groovy","kicad-nightly-demos","202101261535+5a5f96bd9f~112~ubuntu20.10.1",17,"202101261535"
+"kicad/kicad-dev-nightly","2021-01-26","2021-01-26 17:54:45.446842+00:00","Superseded","arm64","groovy","kicad-nightly-demos","202101261535+5a5f96bd9f~112~ubuntu20.10.1",17,"202101261535"
+"kicad/kicad-dev-nightly","2021-01-26","2021-01-26 17:54:45.446842+00:00","Superseded","armhf","groovy","kicad-nightly-demos","202101261535+5a5f96bd9f~112~ubuntu20.10.1",17,"202101261535"
+"kicad/kicad-dev-nightly","2021-01-26","2021-01-26 17:54:45.446842+00:00","Superseded","i386","groovy","kicad-nightly-demos","202101261535+5a5f96bd9f~112~ubuntu20.10.1",17,"202101261535"
+"kicad/kicad-dev-nightly","2021-01-26","2021-01-26 17:54:45.446842+00:00","Superseded","ppc64el","groovy","kicad-nightly-demos","202101261535+5a5f96bd9f~112~ubuntu20.10.1",17,"202101261535"
+"kicad/kicad-dev-nightly","2021-01-26","2021-01-26 17:54:45.446842+00:00","Superseded","riscv64","groovy","kicad-nightly-demos","202101261535+5a5f96bd9f~112~ubuntu20.10.1",17,"202101261535"
+"kicad/kicad-dev-nightly","2021-01-26","2021-01-26 17:54:45.446842+00:00","Superseded","s390x","groovy","kicad-nightly-demos","202101261535+5a5f96bd9f~112~ubuntu20.10.1",17,"202101261535"

@@ -1,18 +1,18 @@
-PPA,Date,Date published,Status,Arch,Ubuntu version,Package name,Package version,Download count
-"js-reynaud/kicad-dev-nightly","2021-06-23","2021-06-23 00:14:07.802583+00:00","Superseded","amd64","bionic","kicad-nightly","202106222057+d30fc811a7~130~ubuntu18.04.1",4
-"js-reynaud/kicad-dev-nightly","2021-06-23","2021-06-23 00:14:07.802583+00:00","Superseded","amd64","bionic","kicad-nightly-dbg","202106222057+d30fc811a7~130~ubuntu18.04.1",1
-"js-reynaud/kicad-dev-nightly","2021-06-23","2021-06-23 00:14:07.802583+00:00","Superseded","amd64","bionic","kicad-nightly-demos","202106222057+d30fc811a7~130~ubuntu18.04.1",4
-"js-reynaud/kicad-dev-nightly","2021-06-23","2021-06-23 00:14:07.802583+00:00","Superseded","amd64","focal","kicad-nightly","202106222056+d30fc811a7~130~ubuntu20.04.1",8
-"js-reynaud/kicad-dev-nightly","2021-06-23","2021-06-23 00:14:07.802583+00:00","Superseded","amd64","focal","kicad-nightly-dbg","202106222056+d30fc811a7~130~ubuntu20.04.1",1
-"js-reynaud/kicad-dev-nightly","2021-06-23","2021-06-23 00:14:07.802583+00:00","Superseded","amd64","focal","kicad-nightly-demos","202106222056+d30fc811a7~130~ubuntu20.04.1",8
-"js-reynaud/kicad-dev-nightly","2021-06-23","2021-06-23 00:14:07.802583+00:00","Superseded","arm64","bionic","kicad-nightly-demos","202106222057+d30fc811a7~130~ubuntu18.04.1",4
-"js-reynaud/kicad-dev-nightly","2021-06-23","2021-06-23 00:14:07.802583+00:00","Superseded","arm64","focal","kicad-nightly-demos","202106222056+d30fc811a7~130~ubuntu20.04.1",8
-"js-reynaud/kicad-dev-nightly","2021-06-23","2021-06-23 00:14:07.802583+00:00","Superseded","armhf","bionic","kicad-nightly-demos","202106222057+d30fc811a7~130~ubuntu18.04.1",4
-"js-reynaud/kicad-dev-nightly","2021-06-23","2021-06-23 00:14:07.802583+00:00","Superseded","armhf","focal","kicad-nightly-demos","202106222056+d30fc811a7~130~ubuntu20.04.1",8
-"js-reynaud/kicad-dev-nightly","2021-06-23","2021-06-23 00:14:07.802583+00:00","Superseded","i386","bionic","kicad-nightly-demos","202106222057+d30fc811a7~130~ubuntu18.04.1",4
-"js-reynaud/kicad-dev-nightly","2021-06-23","2021-06-23 00:14:07.802583+00:00","Superseded","i386","focal","kicad-nightly-demos","202106222056+d30fc811a7~130~ubuntu20.04.1",8
-"js-reynaud/kicad-dev-nightly","2021-06-23","2021-06-23 00:14:07.802583+00:00","Superseded","ppc64el","bionic","kicad-nightly-demos","202106222057+d30fc811a7~130~ubuntu18.04.1",4
-"js-reynaud/kicad-dev-nightly","2021-06-23","2021-06-23 00:14:07.802583+00:00","Superseded","ppc64el","focal","kicad-nightly-demos","202106222056+d30fc811a7~130~ubuntu20.04.1",8
-"js-reynaud/kicad-dev-nightly","2021-06-23","2021-06-23 00:14:07.802583+00:00","Superseded","riscv64","focal","kicad-nightly-demos","202106222056+d30fc811a7~130~ubuntu20.04.1",8
-"js-reynaud/kicad-dev-nightly","2021-06-23","2021-06-23 00:14:07.802583+00:00","Superseded","s390x","bionic","kicad-nightly-demos","202106222057+d30fc811a7~130~ubuntu18.04.1",4
-"js-reynaud/kicad-dev-nightly","2021-06-23","2021-06-23 00:14:07.802583+00:00","Superseded","s390x","focal","kicad-nightly-demos","202106222056+d30fc811a7~130~ubuntu20.04.1",8
+PPA,Date,Date published,Status,Arch,Ubuntu version,Package name,Package version,Download count,Short version
+"js-reynaud/kicad-dev-nightly","2021-06-23","2021-06-23 00:14:07.802583+00:00","Superseded","amd64","bionic","kicad-nightly","202106222057+d30fc811a7~130~ubuntu18.04.1",4,"202106222057"
+"js-reynaud/kicad-dev-nightly","2021-06-23","2021-06-23 00:14:07.802583+00:00","Superseded","amd64","bionic","kicad-nightly-dbg","202106222057+d30fc811a7~130~ubuntu18.04.1",1,"202106222057"
+"js-reynaud/kicad-dev-nightly","2021-06-23","2021-06-23 00:14:07.802583+00:00","Superseded","amd64","bionic","kicad-nightly-demos","202106222057+d30fc811a7~130~ubuntu18.04.1",4,"202106222057"
+"js-reynaud/kicad-dev-nightly","2021-06-23","2021-06-23 00:14:07.802583+00:00","Superseded","amd64","focal","kicad-nightly","202106222056+d30fc811a7~130~ubuntu20.04.1",8,"202106222056"
+"js-reynaud/kicad-dev-nightly","2021-06-23","2021-06-23 00:14:07.802583+00:00","Superseded","amd64","focal","kicad-nightly-dbg","202106222056+d30fc811a7~130~ubuntu20.04.1",1,"202106222056"
+"js-reynaud/kicad-dev-nightly","2021-06-23","2021-06-23 00:14:07.802583+00:00","Superseded","amd64","focal","kicad-nightly-demos","202106222056+d30fc811a7~130~ubuntu20.04.1",8,"202106222056"
+"js-reynaud/kicad-dev-nightly","2021-06-23","2021-06-23 00:14:07.802583+00:00","Superseded","arm64","bionic","kicad-nightly-demos","202106222057+d30fc811a7~130~ubuntu18.04.1",4,"202106222057"
+"js-reynaud/kicad-dev-nightly","2021-06-23","2021-06-23 00:14:07.802583+00:00","Superseded","arm64","focal","kicad-nightly-demos","202106222056+d30fc811a7~130~ubuntu20.04.1",8,"202106222056"
+"js-reynaud/kicad-dev-nightly","2021-06-23","2021-06-23 00:14:07.802583+00:00","Superseded","armhf","bionic","kicad-nightly-demos","202106222057+d30fc811a7~130~ubuntu18.04.1",4,"202106222057"
+"js-reynaud/kicad-dev-nightly","2021-06-23","2021-06-23 00:14:07.802583+00:00","Superseded","armhf","focal","kicad-nightly-demos","202106222056+d30fc811a7~130~ubuntu20.04.1",8,"202106222056"
+"js-reynaud/kicad-dev-nightly","2021-06-23","2021-06-23 00:14:07.802583+00:00","Superseded","i386","bionic","kicad-nightly-demos","202106222057+d30fc811a7~130~ubuntu18.04.1",4,"202106222057"
+"js-reynaud/kicad-dev-nightly","2021-06-23","2021-06-23 00:14:07.802583+00:00","Superseded","i386","focal","kicad-nightly-demos","202106222056+d30fc811a7~130~ubuntu20.04.1",8,"202106222056"
+"js-reynaud/kicad-dev-nightly","2021-06-23","2021-06-23 00:14:07.802583+00:00","Superseded","ppc64el","bionic","kicad-nightly-demos","202106222057+d30fc811a7~130~ubuntu18.04.1",4,"202106222057"
+"js-reynaud/kicad-dev-nightly","2021-06-23","2021-06-23 00:14:07.802583+00:00","Superseded","ppc64el","focal","kicad-nightly-demos","202106222056+d30fc811a7~130~ubuntu20.04.1",8,"202106222056"
+"js-reynaud/kicad-dev-nightly","2021-06-23","2021-06-23 00:14:07.802583+00:00","Superseded","riscv64","focal","kicad-nightly-demos","202106222056+d30fc811a7~130~ubuntu20.04.1",8,"202106222056"
+"js-reynaud/kicad-dev-nightly","2021-06-23","2021-06-23 00:14:07.802583+00:00","Superseded","s390x","bionic","kicad-nightly-demos","202106222057+d30fc811a7~130~ubuntu18.04.1",4,"202106222057"
+"js-reynaud/kicad-dev-nightly","2021-06-23","2021-06-23 00:14:07.802583+00:00","Superseded","s390x","focal","kicad-nightly-demos","202106222056+d30fc811a7~130~ubuntu20.04.1",8,"202106222056"
