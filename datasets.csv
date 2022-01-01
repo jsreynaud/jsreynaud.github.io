@@ -1,4 +1,5 @@
 "Package","Item","Title","csv"
+"Yearly","2022","January 2022","csv/2022.txt"
 "Yearly","2021","January 2021","csv/2021.txt"
 "Yearly","2020","January 2020","csv/2020.txt"
 "Monthly","2018-09","September 2018","csv/2018-09.txt"
@@ -41,6 +42,7 @@
 "Monthly","2021-10","October 2021","csv/2021-10.txt"
 "Monthly","2021-11","November 2021","csv/2021-11.txt"
 "Monthly","2021-12","December 2021","csv/2021-12.txt"
+"Monthly","2022-01","January 2022","csv/2022-01.txt"
 "Daily for September 2018","2018-09-01","01 September 2018","csv/2018-09/2018-09-01.txt"
 "Daily for September 2018","2018-09-02","02 September 2018","csv/2018-09/2018-09-02.txt"
 "Daily for September 2018","2018-09-03","03 September 2018","csv/2018-09/2018-09-03.txt"
@@ -1259,3 +1261,4 @@
 "Daily for December 2021","2021-12-29","29 December 2021","csv/2021-12/2021-12-29.txt"
 "Daily for December 2021","2021-12-30","30 December 2021","csv/2021-12/2021-12-30.txt"
 "Daily for December 2021","2021-12-31","31 December 2021","csv/2021-12/2021-12-31.txt"
+"Daily for January 2022","2022-01-01","01 January 2022","csv/2022-01/2022-01-01.txt"
