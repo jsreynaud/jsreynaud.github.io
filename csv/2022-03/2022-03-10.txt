@@ -1,11 +1,4 @@
 PPA,Date,Date published,Status,Arch,Ubuntu version,Package name,Package version,Download count,Short version
-"js-reynaud/kicad-dev-nightly","2022-03-10","2022-03-09 16:41:53.875228+00:00","Published","amd64","focal","kicad-nightly-demos","202203091533+e7f379c31d~148~ubuntu20.04.1",1,"202203091533"
-"js-reynaud/kicad-dev-nightly","2022-03-10","2022-03-09 16:41:53.875228+00:00","Published","arm64","focal","kicad-nightly-demos","202203091533+e7f379c31d~148~ubuntu20.04.1",1,"202203091533"
-"js-reynaud/kicad-dev-nightly","2022-03-10","2022-03-09 16:41:53.875228+00:00","Published","armhf","focal","kicad-nightly-demos","202203091533+e7f379c31d~148~ubuntu20.04.1",1,"202203091533"
-"js-reynaud/kicad-dev-nightly","2022-03-10","2022-03-09 16:41:53.875228+00:00","Published","i386","focal","kicad-nightly-demos","202203091533+e7f379c31d~148~ubuntu20.04.1",1,"202203091533"
-"js-reynaud/kicad-dev-nightly","2022-03-10","2022-03-09 16:41:53.875228+00:00","Published","ppc64el","focal","kicad-nightly-demos","202203091533+e7f379c31d~148~ubuntu20.04.1",1,"202203091533"
-"js-reynaud/kicad-dev-nightly","2022-03-10","2022-03-09 16:41:53.875228+00:00","Published","riscv64","focal","kicad-nightly-demos","202203091533+e7f379c31d~148~ubuntu20.04.1",1,"202203091533"
-"js-reynaud/kicad-dev-nightly","2022-03-10","2022-03-09 16:41:53.875228+00:00","Published","s390x","focal","kicad-nightly-demos","202203091533+e7f379c31d~148~ubuntu20.04.1",1,"202203091533"
 "kicad/kicad-dev-nightly","2022-03-10","2022-03-10 02:35:40.003235+00:00","Superseded","amd64","impish","kicad-nightly-demos","202203100117+0440aa3d83~148~ubuntu21.10.1",2,"202203100117"
 "kicad/kicad-dev-nightly","2022-03-10","2022-03-10 02:35:40.003235+00:00","Superseded","arm64","impish","kicad-nightly-demos","202203100117+0440aa3d83~148~ubuntu21.10.1",2,"202203100117"
 "kicad/kicad-dev-nightly","2022-03-10","2022-03-10 02:35:40.003235+00:00","Superseded","armhf","impish","kicad-nightly-demos","202203100117+0440aa3d83~148~ubuntu21.10.1",2,"202203100117"
