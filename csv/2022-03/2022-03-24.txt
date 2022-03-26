@@ -29,5 +29,5 @@ PPA,Date,Date published,Status,Arch,Ubuntu version,Package name,Package version,
 "kicad/kicad-dev-nightly","2022-03-24","2022-03-24 10:54:53.613412+00:00","Superseded","amd64","bionic","libngspice-kicad","0.1-36~202203241031+1a6a9e6bb~ubuntu18.04.1",9,"0.1"
 "kicad/kicad-dev-nightly","2022-03-24","2022-03-24 10:54:53.613412+00:00","Superseded","amd64","focal","libngspice-kicad","0.1-36~202203241031+1a6a9e6bb~ubuntu20.04.1",13,"0.1"
 "kicad/kicad-dev-nightly","2022-03-24","2022-03-24 10:54:53.613412+00:00","Superseded","ppc64el","focal","libngspice-kicad","0.1-36~202203241031+1a6a9e6bb~ubuntu20.04.1",1,"0.1"
-"kicad/kicad-dev-nightly","2022-03-24","2022-03-24 11:11:32.077411+00:00","Published","arm64","focal","libngspice-kicad","0.1-36~202203241031+1a6a9e6bb~ubuntu20.04.1",1,"0.1"
-"kicad/kicad-dev-nightly","2022-03-24","2022-03-24 11:11:32.077411+00:00","Published","armhf","focal","libngspice-kicad","0.1-36~202203241031+1a6a9e6bb~ubuntu20.04.1",1,"0.1"
+"kicad/kicad-dev-nightly","2022-03-24","2022-03-24 11:11:32.077411+00:00","Superseded","arm64","focal","libngspice-kicad","0.1-36~202203241031+1a6a9e6bb~ubuntu20.04.1",1,"0.1"
+"kicad/kicad-dev-nightly","2022-03-24","2022-03-24 11:11:32.077411+00:00","Superseded","armhf","focal","libngspice-kicad","0.1-36~202203241031+1a6a9e6bb~ubuntu20.04.1",1,"0.1"
