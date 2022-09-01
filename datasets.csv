@@ -50,6 +50,7 @@
 "Monthly","2022-06","June 2022","csv/2022-06.txt"
 "Monthly","2022-07","July 2022","csv/2022-07.txt"
 "Monthly","2022-08","August 2022","csv/2022-08.txt"
+"Monthly","2022-09","September 2022","csv/2022-09.txt"
 "Daily for September 2018","2018-09-01","01 September 2018","csv/2018-09/2018-09-01.txt"
 "Daily for September 2018","2018-09-02","02 September 2018","csv/2018-09/2018-09-02.txt"
 "Daily for September 2018","2018-09-03","03 September 2018","csv/2018-09/2018-09-03.txt"
@@ -1511,3 +1512,4 @@
 "Daily for August 2022","2022-08-29","29 August 2022","csv/2022-08/2022-08-29.txt"
 "Daily for August 2022","2022-08-30","30 August 2022","csv/2022-08/2022-08-30.txt"
 "Daily for August 2022","2022-08-31","31 August 2022","csv/2022-08/2022-08-31.txt"
+"Daily for September 2022","2022-09-01","01 September 2022","csv/2022-09/2022-09-01.txt"
